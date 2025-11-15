@@ -127,7 +127,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 If you have any questions or need help with customization:
 - Create an issue in the repository
-- Contact: eren@example.com
+
 
 ## 🎉 Deployment
 
